@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 navigation_title: About
 title: About Lucas Gatsas
 permalink: /about/
